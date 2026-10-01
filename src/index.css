@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* You can optionally add a dark background for the whole page here */
+body {
+  background-color: #f3f4f6; /* light gray, standard tailwind bg-gray-100 */
+  margin: 0;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
